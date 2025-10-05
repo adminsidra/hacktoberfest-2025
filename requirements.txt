@@ -1,0 +1,15 @@
+# MoodMate AI Web App - Dependencies
+# Install with: pip install -r requirements.txt
+
+Flask==2.3.3
+nltk==3.8.1
+Werkzeug==2.3.7
+
+# Optional but recommended dependencies for better performance
+click==8.1.7
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+
+# NLTK data will be downloaded automatically by the app
+# No need to manually download VADER lexicon
